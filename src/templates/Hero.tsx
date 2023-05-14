@@ -24,7 +24,7 @@ const Hero = () => (
           <>
             Welcome to{' '}
             <Link href="https://morisguide.com">
-              <a className="text-primary-500">MorisGuide.com</a>
+              <a className="text-primary-500">Moris Guide</a>
             </Link>
           </>
         }
