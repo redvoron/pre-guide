@@ -2,7 +2,7 @@ import { ReactNode } from 'react';
 
 type ISectionProps = {
   title?: string;
-  description?: string;
+  description?: JSX.Element;
   yPadding?: string;
   children: ReactNode;
 };

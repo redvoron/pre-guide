@@ -1,7 +1,6 @@
 import Link from 'next/link';
 
 import { Background } from '../background/Background';
-import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
 import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
@@ -23,18 +22,20 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The modern landing page for\n'}
-            <span className="text-primary-500">new startup</span>
+            Welcome to{' '}
+            <Link href="https://morisguide.com">
+              <a className="text-primary-500">MorisGuide.com</a>
+            </Link>
           </>
         }
-        description="The easiest way to build a React landing page in seconds."
-        button={
+        description="Your Gateway to Mauritius!"
+        /*         button={
           <Link href="#">
             <a>
               <Button xl>Click me to buy</Button>
             </a>
           </Link>
-        }
+        } */
       />
     </Section>
   </Background>
