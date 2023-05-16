@@ -28,7 +28,7 @@ const Hero = () => (
             </Link>
           </>
         }
-        description="Your Gateway to Mauritius!"
+        description="Your Gateway to Mauritius and Beyond!"
         /*         button={
           <Link href="#">
             <a>
