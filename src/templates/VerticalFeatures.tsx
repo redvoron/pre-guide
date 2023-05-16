@@ -23,26 +23,28 @@ const VerticalFeatures = () => (
           and services are designed with an in-depth understanding of the local
           cultures, languages, and preferences. <br />
           <br />
-          Why Mauritius?
+          <b>Why Mauritius?</b>
           <br /> Mauritius, known for its strategic location, political
           stability, and growing IT infrastructure, is the perfect place for our
           operations. Establishing our mother company here in Mauritius not only
           opens up opportunities for us but also for the country. Here's how:
           <br />
           <br />
-          Economic Growth: Our operations will contribute to the Mauritian
-          economy by creating jobs and generating revenue. As our services
-          expand across Africa, Mauritius will be at the center of this growth.
+          <b>Economic Growth:</b> Our operations will contribute to the
+          Mauritian economy by creating jobs and generating revenue. As our
+          services expand across Africa, Mauritius will be at the center of this
+          growth.
           <br />
           <br />
-          Digital Hub: Our presence will enhance Mauritius's reputation as a
-          digital hub, attracting more tech companies and investments. <br />
+          <b>Digital Hub: </b>Our presence will enhance Mauritius's reputation
+          as a digital hub, attracting more tech companies and investments.{' '}
           <br />
-          Knowledge Transfer: Our team of international experts will work
+          <br />
+          <b>Knowledge Transfer:</b> Our team of international experts will work
           closely with local talent, fostering a culture of innovation and
           knowledge exchange. <br />
           <br />
-          Tourism Boost: Through{' '}
+          <b>Tourism Boost:</b> Through{' '}
           <Link href="https://morisguide.com">
             <a className="text-primary-500">MorisGuide.com</a>
           </Link>
