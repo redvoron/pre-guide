@@ -90,7 +90,7 @@ const VerticalFeatures = () => (
             your perfect trip.
           </>
         }
-        image="/assets/images/feature.svg"
+        image="/assets/images/Picture2.png"
         imageAlt="First feature alt text"
       />
       <VerticalFeatureRow
@@ -107,7 +107,7 @@ const VerticalFeatures = () => (
             national pride.
           </>
         }
-        image="/assets/images/feature3.svg"
+        image="/assets/images/Picture7.png"
         imageAlt="Second feature alt text"
         reverse
       />
@@ -128,7 +128,7 @@ const VerticalFeatures = () => (
             future of travel and tourism in Mauritius.
           </>
         }
-        image="/assets/images/feature2.svg"
+        image="/assets/images/Picture3.png"
         imageAlt="Third feature alt text"
       />
     </Section>
